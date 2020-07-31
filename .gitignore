@@ -1,0 +1,18 @@
+**/.classpath
+**/.project
+**/.settings
+**/target
+**/META-INF
+.DS_Store
+.classpath
+.project
+.settings
+.factorypath
+.idea
+target
+*.iml
+*.class
+*~
+*.orig
+# For Fiji #
+*.jar
